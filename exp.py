@@ -83,7 +83,6 @@ def get_web_dir(url,filename):
 
 if __name__ == "__main__":
     # url = "http://127.0.0.1:80"
-    url = "http://172.16.2.111:80"
     # url = sys.argv[1]
     filename = str(time.time()).replace(".","1") + ".php"
     get_web_dir(url,filename)
