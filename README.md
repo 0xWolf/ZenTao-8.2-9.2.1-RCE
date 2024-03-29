@@ -4,4 +4,6 @@
 
 `python3 exp.py <target-url>`
 
-Updated on：2024-3-29
+![](./result.png)
+
+<div style="text-align: right;"> Updated on：2024-3-29 </div>
