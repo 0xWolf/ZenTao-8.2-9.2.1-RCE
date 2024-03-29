@@ -4,6 +4,4 @@
 
 `python3 exp.py <target-url>`
 
-![](./result.png)
-
-<div style="text-align: right;"> Updated on：2024-3-29 </div>
+Updated on：2024-3-29
