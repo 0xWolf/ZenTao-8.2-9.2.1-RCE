@@ -1,10 +1,7 @@
-# zentao-getshell 禅道8.2 - 9.2.1前台Getshell
+# 禅道 8.2 - 9.2.1 RCE
+
 ## Python Usage
 
-`python exp.py http://127.0.0.1:81/ jas502n.php`
+`python3 exp.py <target-url>`
 
-![](./zentao.jpg)
-
-
-![](./zentao.gif)
-
+Updated on：2024-3-29
