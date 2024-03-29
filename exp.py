@@ -19,7 +19,7 @@ banner = '''
 
                       python3 by 0xWolf
 
-    usage: python exp.py http://127.0.0.1:80/zentao                                                                                                                                                                                     
+    usage: python3 exp.py http://127.0.0.1:80/zentao                                                                                                                                                                                     
 '''
 print(banner)
 
