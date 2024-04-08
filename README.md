@@ -1,6 +1,6 @@
 # 禅道 8.2 - 9.2.1 RCE
 
-## Python3 Usage
+## Python Usage
 
 `python3 exp.py <target-url>`
 
